@@ -1,5 +1,6 @@
 # Crime-Analysis-Dashboard-Dynamic-BI-in-Excel
 This project transforms a complex, raw crime dataset (sourced from Kaggle) into a fully dynamic and intuitive Business Intelligence (BI) tool using Microsoft Excel. The primary goal was to upgrade the analysis from a static report to a real-time, executive-level decision-support dashboard.
+
    Key Technical Accomplishments
 The dashboard is built upon principles of technical robustness and visualization clarity:
 
@@ -8,6 +9,7 @@ The dashboard is built upon principles of technical robustness and visualization
 2. Data Preparation: Initial work involved cleaning the raw Kaggle data by handling missing values and standardizing date formats to ensure accurate analysis within the PivotTables.
 
 3. Visualization & UX: Applied professional design principles: moved to a clean, white aesthetic; utilized a dedicated KPI banner; and converted cluttered visualizations into clear, sorted Bar Charts for better comparison.
+
 
    Analytical Value
 The dashboard enables users to instantly answer critical questions regarding public safety:
